@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'Main' => 'Main',
+    'Offers' => 'Offers',
+    'Services' => 'Services',
+    'About' => 'About',
+    'Contact' => 'Contact',
+    'Login' => 'Login',
+    'Register' => 'Register',
+    'Exceplanation' => 'Exceplanation',
+    'Where Do You Want To Go?' => '?Where do you want to go',
+    'Round Trip' => 'Round Trip',
+    'One Way' => 'One Way',
+    'Multiple Trips' => 'Multiple Trips',
+    'Departing From' => 'Departing From',
+    'Arrive To' => 'Arrive To',
+    'Booking Class' => 'Booking Class',
+    'Adult' => 'Adult',
+    'Kid' => 'Kid',
+    'Baby' => 'Baby',
+    'Hotels' => 'Hotels',
+    'Flight' => 'Flight',
+    'Tourism' => 'Tourism',
+    'Bussiness' => 'Bussiness',
+    'Book' => 'Book',
+    'Flexible Date' => 'Flexible Date',
+    'The Most Famous Destinations' => 'The Most Famous Destinations',
+    'The Most Famous Tourist Places In The World' => 'The Most Famous Tourist Places In The World',
+    'Add A Trip' => 'Add A Trip',
+    'Best Flight Deals' => 'Best Flight Deals',
+    'Search' => 'search',
+    'Photos' => 'photos album',
+    'Photos Hint' => 'Photos of souvenirs of the most famous public places',
+
+];

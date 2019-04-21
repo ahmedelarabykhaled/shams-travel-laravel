@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'Offers' => 'العروض',
+    'Services' => 'خدماتنا',
+    'About' => 'عن شمس',
+    'Contact' => 'اتصل بنا',
+    'Login' => 'تسجيل دخول',
+    'Register' => 'تسجيل جديد',
+    'Exceplanation' => 'للاستفسار',
+    'Where Do You Want To Go?s' => 'الى اين تريد الذهاب؟',
+    'Round Trip' => 'ذهاب وعوده',
+    'One Way' => 'ذهاب فقط',
+    'Multiple Trips' => 'رحلات متعدده',
+    'Departing From' => 'المغادره من',
+    'Arrive To' => 'الوصول الى',
+    'Booking Class' => 'درجة الحجز',
+    'Adult' => 'شخص بالغ',
+    'Kid' => 'طفل',
+    'Baby' => 'رضيع',
+    'Hotels' => 'فنادق',
+    'Flight' => 'طيران',
+    'Tourism' => 'السياحيه',
+    'Bussiness' => 'رجال الاعمال',
+    'Book' => 'حجز',
+    'Flexible Date' => 'تواريخ مرنه',
+    'The Most Famous Destinations' => 'افضل عروض الرحلات',
+    'The Most Famous Tourist Places In The World' => 'اشهر الاماكن السياحيه فى العالم',
+    'Best Flight Deals In The World' => 'افضل عروض الرحلات فى العالم',
+    'Main' => 'arabic',
+    'Where Do You Want To Go?' => 'الى اين تريد الذهاب؟',
+    'Search' => 'بحث',
+    'Photos' => 'معرض الصور',
+    'Photos Hint' => 'صور تذكاريه من اشهر الماكن السياحيه فى العالم',
+
+];
